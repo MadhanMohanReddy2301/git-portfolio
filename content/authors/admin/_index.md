@@ -11,7 +11,7 @@ last_name: Reddy
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Passionate about AI/ML technologies, I have over 2.8 years of experience in software development. Currently pursuing a PG in Machine Learning and Artificial Intelligence from IIIT Bangalore, I am eager to transition into a Data Science role. I excel in building strong application logic, using generative AI for creative solutions, and uncovering valuable insights from complex datasets. Committed to continuous learning and innovation, I am enthusiastic about applying my technical skills and analytical mindset in a dynamic data science environment. Check out my own GPT : AIO-GPT
