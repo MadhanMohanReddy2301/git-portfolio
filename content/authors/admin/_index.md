@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Madhan P
+title: Madhan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Madhan Mohan 
@@ -11,7 +11,7 @@ last_name: Reddy
 
 # Status emoji
 status:
-  icon: 👨‍🎓
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
