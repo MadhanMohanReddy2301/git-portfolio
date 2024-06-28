@@ -55,7 +55,7 @@ education:
   - area: PG Diploma in Machine Learning and Artificial Intelligence
     institution: International Institute of Information Technology, Bangalore
     date_start: 2024-03-01
-    date_end: 2025-04-31
+    date_end: 2025-04-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
