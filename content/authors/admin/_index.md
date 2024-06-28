@@ -40,16 +40,15 @@ profiles:
   - icon: brands/github
     url: https://github.com/MadhanMohanReddy2301
   - icon: brands/linkedin
-    url: https://linkedin.com/in/madhan-mohan-reddy-pedaballi-236b61194/
+    url: https://www.linkedin.com/in/madhanmmr/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
   - Machine learning
   - Data Science
+  - Generative AI
 
 education:
   - area: PG Diploma in Machine Learning and Artificial Intelligence
@@ -61,10 +60,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Technology in Computer Science and Engineering (CSE)
+    institution: Sir CV Raman Institute of Technology and Science, Tadipatri, Andhra Pradesh
+    date_start: 2018-08-01
+    date_end: 2021-07-20
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +71,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Diploma in Computer Engineering (CME)
+    institution: Government Polytechnic College, Proddatur, Andhra Pradesh
+    date_start: 2015-08-01
+    date_end: 2018-07-28
     summary: |
       GPA: 3.4/4.0
       
@@ -84,28 +83,28 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Engineer
+    company_name: Fidelity Information Services 
+    company_url: 'https://www.fisglobal.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-10-25
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Develops Java enhancements and bug fixes for banking clients in North America, taking ownership of tasks and coordinating with BA and QA teams to resolve defects.
+      - Fixed bugs in core banking projects, including US TAX forms and retirement plans.
+      - Utilized generative AI techniques, including LLM models, to create innovative prototypes and solutions in the Innovation event.
+  - position: IT Trainee
+    company_name: Fidelity Information Services 
+    company_url: 'https://www.fisglobal.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-10-25
+    date_end: 2022-10-25
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Added functionality to existing banking applications and fixed bugs reported by JIRA tickets.
+      - Worked on enhancements as per US regulatory requirements and client-reported issues.
+      - Gained experience in Jira, Bitbucket, and Git.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -124,6 +123,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
