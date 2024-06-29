@@ -3,6 +3,7 @@ title: Gemini RAG Application
 date: 2024-4-26
 external_link: https://github.com/MadhanMohanReddy2301/Gemini-RAG-Application
 tags:
+  - RAG Based Application
   - Wowchemy
   - Markdown
 ---
