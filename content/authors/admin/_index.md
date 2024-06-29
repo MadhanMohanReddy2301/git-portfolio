@@ -88,7 +88,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: 
     items:
       - name: Python
         description: ''
@@ -99,17 +99,17 @@ skills:
       - name: SQL
         description: ''
         percent: 40
+      - name: Data Cleaning
+        description: ''
+        percent: 40
+      - name: Data Analysis
+        description: ''
+        percent: 40
         
-  - name: Data Science
+  - name: 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Data Cleaning
-        description: ''
-        percent: 60
-      - name: Data Analysis
-        description: ''
-        percent: 100
       - name: Pandas
         description: ''
         percent: 80
@@ -119,6 +119,29 @@ skills:
       - name: Matplotlib
         description: ''
         percent: 80
+      - name: Deep Learning
+        description: ''
+        percent: 60
+      - name: Generative AI
+        description: ''
+        percent: 100
+  - name: 
+    items:
+      - name: NLP & LLMs
+        description: ''
+        percent: 80
+      - name: Regression Models
+        description: ''
+        percent: 100
+      - name: LangChain
+        description: ''
+        percent: 40
+    - name: Transformers
+        description: ''
+        percent: 40
+    - name: Scikit-Learn
+        description: ''
+        percent: 40
 
 languages:
   - name: English
