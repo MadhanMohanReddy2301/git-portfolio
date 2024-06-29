@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madhan
+title: Madhan P
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: SDE 1 | AI/ML | Gen AI Enthusiast
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,16 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:madhanmohan2301@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/MadhanMohanReddy2301
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/madhanmmr/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
 
 interests:
   - Artificial Intelligence
@@ -56,32 +50,17 @@ education:
     date_start: 2024-03-01
     date_end: 2025-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      The PG Diploma in Machine Learning and Artificial Intelligence at IIIT-Bangalore offers a rigorous curriculum covering algorithms, deep learning, and NLP. With a focus on practical applications and industry relevance, students gain hands-on experience through projects and a capstone. Faculty expertise and career support enhance readiness for roles in data science and AI.
   - area: Bachelor of Technology in Computer Science and Engineering (CSE)
     institution: Sir CV Raman Institute of Technology and Science, Tadipatri, Andhra Pradesh
     date_start: 2018-08-01
     date_end: 2021-07-20
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - area: Diploma in Computer Engineering (CME)
     institution: Government Polytechnic College, Proddatur, Andhra Pradesh
     date_start: 2015-08-01
     date_end: 2018-07-28
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   
 work:
   - position: Software Engineer
     company_name: Fidelity Information Services 
@@ -109,78 +88,56 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
         
-  - name: Hobbies
+  - name: Data Science
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Data Cleaning
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Data Analysis
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+      - name: Pandas
         description: ''
         percent: 80
-        icon: camera
+      - name: Numpy
+        description: ''
+        percent: 80
+      - name: Matplotlib
+        description: ''
+        percent: 80
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Telugu
+    percent: 100
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: FIS INNOVATE48
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: FIS Global
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
-
+      Awarded by FIS management for reaching the finals in the INNOVATE48 event and recognized for outstanding contributions to automation.
 ## About Me
 
 Passionate about AI/ML technologies, I have over 2.8 years of experience in software development. Currently pursuing a PG in Machine Learning and Artificial Intelligence from IIIT Bangalore, I am eager to transition into a Data Science role. I excel in building strong application logic, using generative AI for creative solutions, and uncovering valuable insights from complex datasets. Committed to continuous learning and innovation, I am enthusiastic about applying my technical skills and analytical mindset in a dynamic data science environment. Check out my own GPT : AIO-GPT
