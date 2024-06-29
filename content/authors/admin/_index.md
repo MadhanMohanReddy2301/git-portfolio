@@ -107,8 +107,6 @@ skills:
         percent: 40
         
   - name: 
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Pandas
         description: ''
@@ -136,10 +134,10 @@ skills:
       - name: LangChain
         description: ''
         percent: 40
-    - name: Transformers
+      - name: Transformers
         description: ''
         percent: 40
-    - name: Scikit-Learn
+      - name: Scikit-Learn
         description: ''
         percent: 40
 
