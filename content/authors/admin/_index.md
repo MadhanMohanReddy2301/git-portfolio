@@ -138,6 +138,7 @@ awards:
     awarder: FIS Global
     summary: |
       Awarded by FIS management for reaching the finals in the INNOVATE48 event and recognized for outstanding contributions to automation.
+---
 ## About Me
 
 Passionate about AI/ML technologies, I have over 2.8 years of experience in software development. Currently pursuing a PG in Machine Learning and Artificial Intelligence from IIIT Bangalore, I am eager to transition into a Data Science role. I excel in building strong application logic, using generative AI for creative solutions, and uncovering valuable insights from complex datasets. Committed to continuous learning and innovation, I am enthusiastic about applying my technical skills and analytical mindset in a dynamic data science environment. Check out my own GPT : AIO-GPT
