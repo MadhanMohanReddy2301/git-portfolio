@@ -1,5 +1,5 @@
 ---
-title: scikit-learn
+title: BoomBikes Sales Prediction
 date: 2023-10-26
 external_link: https://github.com/MadhanMohanReddy2301/BikeSharing-Linear-Regression
 tags:
