@@ -1,7 +1,7 @@
 ---
 title: AIO GPT
 date: 2023-10-26
-external_link: https://github.com/MadhanMohanReddy2301/CHAT-GPT
+external_link: https://aio-gpt.streamlit.app/
 tags:
   - Custom chat bot developed by myself
   - Wowchemy
