@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: SDE 1 | AI/ML | Gen AI Enthusiast
+role: Software Engineer at FIS | AI/ML Proficient | Expert in Generative AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
